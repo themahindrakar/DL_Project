@@ -20,7 +20,7 @@ End to end deep learning project
 Clone the repository
 
 ```bash
-https:https://github.com/sevenmentor-mk/CNN_Classifier
+https://github.com/themahindrakar/DL_Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
