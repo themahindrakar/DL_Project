@@ -11,6 +11,7 @@ from src.cnnClassifier.entity.config_entity import (DataIngestionConfig,
                                                 TrainingConfig,
                                                 EvaluationConfig)
 
+
 class ConfigurationManager:
     def __init__(
         self,
